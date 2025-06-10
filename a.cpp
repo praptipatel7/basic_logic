@@ -15,6 +15,7 @@ int main(){
         cout<<num[r];
         r--;
     }
+    
     return 0;
 }
 
