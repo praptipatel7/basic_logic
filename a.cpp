@@ -16,7 +16,6 @@ int main(){
         r--;
     }
     return 0;
-    
 }
 
 // method-2
