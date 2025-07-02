@@ -13,6 +13,7 @@ int main(){
         int mid=start+(end-start)/2;
         if(nums[mid]==target){
             cout<<mid;
+            return 0;
         }
         if(nums[start]<=nums[mid]){//left sorted
             if(nums[start]<= target && target<=nums[mid]){
