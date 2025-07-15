@@ -116,6 +116,11 @@
 //Multi Set====================================================================================================
 //same as set but allows duplicate value, no square brackets
 
-//unordered map===========================================================================================
+//unordered set===========================================================================================
 //similar to set but not sorted
-//leass time comlexity
+//least time comlexity
+//no lower bound upperbound
+
+//Algorithms
+//sort(start, end)
+//to print elements in decending order sort(arr, arr+n, greater<int>())
